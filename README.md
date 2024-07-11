@@ -16,6 +16,18 @@ To run the program click on the "Solidity Compiler" tab in the left-hand sidebar
 3.Total Supply: Initially set to 0 . It will get updated when we burn and mint.
 
 
+Deploy the 'MyToken' contract using your 'Remix' Ethereum development environment.
+
+
+// mint function
+   MyToken.mint("Address here", 500);
+
+
+// burn function
+   MyToken.burn("Address here, 500);
+ 
+
+
 ## Authors
 
 Harshit Raj
