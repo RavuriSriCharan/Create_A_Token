@@ -1,6 +1,6 @@
-# myToken smart contract
+# MyToken smart contract
 
-This solidity program creates a myToken smart contract that allows for the creation and destruction of tokens.It includes features for creating new tokens for an address and removing tokens from an address, all while maintaining the overall token supply.
+This solidity program creates a MyToken smart contract that allows for the creation and destruction of tokens.It includes features for creating new tokens for an address and removing tokens from an address, all while maintaining the overall token supply.
 
 ## Description
 
@@ -9,7 +9,7 @@ This project includes a creation of Token in remix editor which includes Mint an
 ### Executing program
 
 To run the program click on the "Solidity Compiler" tab in the left-hand sidebar.Make sure the "compiler" option is set to "0.8.41' and then click on the "compile myToken.sol" button.
-1.Token_Name: myToken
+1.Token_Name: Token1
 
 2.Token Abbreviation: tk1
 
