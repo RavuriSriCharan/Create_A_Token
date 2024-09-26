@@ -1,4 +1,4 @@
-## MyToken smart contract
+## MyToken
 
 This repository contains a simple Solidity smart contract named `MyToken`. This contract implements a basic token with minting and burning functionalities.
 
@@ -41,10 +41,10 @@ This project includes a creation of Token in remix editor which includes Mint an
 
 ## Authors
 
-Harshit Raj
+Sri charan
 
 
 
 ## License
 
-This project is licensed under the Harshit Raj License - see the LICENSE.md file for details
+This project is licensed under the Sri charan License - see the LICENSE.md file for details
